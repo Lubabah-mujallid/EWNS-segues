@@ -13,6 +13,7 @@
 		84273CF2276621A300F31F37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84273CF0276621A300F31F37 /* Main.storyboard */; };
 		84273CF4276621A400F31F37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84273CF3276621A400F31F37 /* Assets.xcassets */; };
 		84273CF7276621A400F31F37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84273CF5276621A400F31F37 /* LaunchScreen.storyboard */; };
+		84273CFF2767567100F31F37 /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84273CFE2767567100F31F37 /* OtherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		84273CF3276621A400F31F37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84273CF6276621A400F31F37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84273CF8276621A400F31F37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84273CFE2767567100F31F37 /* OtherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				84273CEC276621A300F31F37 /* SceneDelegate.swift */,
 				84273CEE276621A300F31F37 /* ViewController.swift */,
 				84273CF0276621A300F31F37 /* Main.storyboard */,
+				84273CFE2767567100F31F37 /* OtherViewController.swift */,
 				84273CF3276621A400F31F37 /* Assets.xcassets */,
 				84273CF5276621A400F31F37 /* LaunchScreen.storyboard */,
 				84273CF8276621A400F31F37 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84273CEF276621A300F31F37 /* ViewController.swift in Sources */,
+				84273CFF2767567100F31F37 /* OtherViewController.swift in Sources */,
 				84273CEB276621A300F31F37 /* AppDelegate.swift in Sources */,
 				84273CED276621A300F31F37 /* SceneDelegate.swift in Sources */,
 			);
